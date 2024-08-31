@@ -3,15 +3,12 @@
     {
       "image": "/work.svg",
       "title": "Work",
-      "user": {
-        "image": "/image-jeremy.png",
-        "name": "Jeremy Robson"
-      },
-      "timeframes": {
+     "timeframes": {
         "daily": {
           "current": 5,
           "previous": 7
         },
+     
         "weekly": {
           "current": 32,
           "previous": 36
